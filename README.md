@@ -1,1 +1,1 @@
-# my-likes-page
+# my-likes
